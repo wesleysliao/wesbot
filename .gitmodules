@@ -1,0 +1,9 @@
+[submodule "rososc"]
+	path = rososc
+	url = https://github.com/wesleysliao/rososc.git
+[submodule "rosserial"]
+	path = rosserial
+	url = https://github.com/ros-drivers/rosserial.git
+[submodule "ros_tivac"]
+	path = ros_tivac
+	url = https://github.com/wesleysliao/ros-tivac.git
